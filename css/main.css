@@ -1,0 +1,23 @@
+body {
+    background-color: #000;
+    color: white;
+}
+
+.card {
+    background-color: #333;
+    color: white;
+}
+
+.dropdown-menu {
+    min-width: 0;
+}
+
+
+.card-password {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    animation-name: move;
+    animation-iteration-count: 2;
+    animation-duration: 1s;
+}
